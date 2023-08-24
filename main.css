@@ -84,28 +84,6 @@ div p{
     background: rgb(110, 103, 103);
     transition: 1s ;
 }
-
-@media (max-width:700px){
-    div h1{
-        font-size: 35px;
-    }
-    .nav-link ul li {
-        display: block;
-
-    }
-    .nav-link{
-        position: absolute;
-        height: 100vh;
-        width: 200px;
-        background: rgb(119, 112, 112);
-        top: 0;
-        right: 0;
-        text-align: left;
-        z-index: 2;
-    }
-    
-
-} 
 /* COURSE */
 .course{
     width: 80%;
